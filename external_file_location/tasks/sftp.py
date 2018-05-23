@@ -11,7 +11,7 @@ except ImportError:
     _logger.debug('Cannot `import fs`.')
 
 
-class SftpTask(sftpfs.SFTPFS):
+class SftpTask():
 
     _key = 'sftp'
     _name = 'SFTP'
