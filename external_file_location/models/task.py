@@ -175,7 +175,7 @@ class Task(models.Model):
                                         md5_datas = md5_file.read().rstrip('\r\n')
                                     attach_vals = self._prepare_attachment_vals(
                                         datas, file_name, md5_datas)
-                                    attachment = attach_obj.with_env(new_env).create(
+                                    attachment = attach_obj.with_env(new_env).with_context(document_ocr_force=True).create(
                                         attach_vals)
                                     new_full_path = False
                                     if self.after_import == 'rename':
