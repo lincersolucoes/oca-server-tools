@@ -10,7 +10,7 @@
     "author": "Antiun Ingeniería S.L., "
               "Tecnativa, "
               "Odoo Community Association (OCA)",
-    "license": "AGPL-3",
+     
     "application": False,
     'installable': True,
     "external_dependencies": {

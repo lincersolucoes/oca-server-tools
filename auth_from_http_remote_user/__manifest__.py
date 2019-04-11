@@ -26,7 +26,7 @@
     'maintainer': 'ACSONE SA/NV',
     'website': 'http://www.acsone.eu',
     'depends': ['base', 'web', 'base_setup'],
-    "license": "AGPL-3",
+     
     'data': [],
     "demo": [],
     "test": [],

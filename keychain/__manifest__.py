@@ -8,7 +8,7 @@
     "category": "Uncategorized",
     "website": "https://akretion.com/",
     "author": "Akretion, Odoo Community Association (OCA)",
-    "license": "AGPL-3",
+     
     "application": False,
     "installable": True,
     "external_dependencies": {

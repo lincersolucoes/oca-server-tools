@@ -23,7 +23,7 @@
     "version": "7.0.1.1.1",
     "author": "Savoir-faire Linux,Odoo Community Association (OCA)",
     "website": "http://www.savoirfairelinux.com",
-    "license": "AGPL-3",
+     
     "category": "Management System",
     "complexity": "normal",
     "description": """\

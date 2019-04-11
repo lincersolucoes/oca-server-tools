@@ -11,7 +11,7 @@
     "author": "Grupo ESOC Ingeniería de Servicios, "
               "Tecnativa, "
               "Odoo Community Association (OCA)",
-    "license": "AGPL-3",
+     
     "application": False,
     "installable": True,
     "external_dependencies": {

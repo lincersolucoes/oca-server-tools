@@ -13,7 +13,7 @@
               "Antiun Ingeniería, S.L., Sodexis, "
               "LasLabs, "
               "Odoo Community Association (OCA)",
-    "license": "AGPL-3",
+     
     "website": "http://www.antiun.com",
     "category": "Tools",
     "depends": ['base'],

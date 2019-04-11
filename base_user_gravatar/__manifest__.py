@@ -8,7 +8,7 @@
     'author': 'LasLabs, Endika Iglesias, Odoo Community Association (OCA)',
     'category': 'Tools',
     'website': 'https://odoo-community.org/',
-    "license": "AGPL-3",
+     
     "application": False,
     'installable': True,
     'data': [

@@ -10,7 +10,7 @@
     "website": "https://www.tecnativa.com",
     "author": "Tecnativa, "
               "Odoo Community Association (OCA)",
-    "license": "AGPL-3",
+     
     "application": False,
     "installable": True,
     "external_dependencies": {

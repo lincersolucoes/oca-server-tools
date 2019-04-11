@@ -7,7 +7,7 @@
     "author": "Therp BV,"
               "Tecnativa,"
               "Odoo Community Association (OCA)",
-    "license": "AGPL-3",
+     
     "category": "Hidden/Dependency",
     "summary": "Request SSL certificates from letsencrypt.org",
     "depends": [

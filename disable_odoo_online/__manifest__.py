@@ -5,7 +5,7 @@
     "name": "Remove odoo.com Bindings",
     "version": "10.0.1.0.0",
     "author": "Therp BV,GRAP,Odoo Community Association (OCA)",
-    "license": "AGPL-3",
+     
     "category": "base",
     "depends": [
         'base',
